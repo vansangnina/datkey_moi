@@ -1,3 +1,4 @@
+language: PHP
 dist: trusty
 addons:
   sonarcloud:
